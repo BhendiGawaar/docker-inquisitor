@@ -7,7 +7,7 @@
 #plugin install delete-by-query
 
 # https://github.com/mobz/elasticsearch-head/#running-as-a-plugin-of-elasticsearch
-plugin install mobz/elasticsearch-head
+#plugin install mobz/elasticsearch-head
 
 # access it at /_plugin/elasticsearch-inquisitor/
 plugin install VishalMaral/elasticsearch-inquisitor
